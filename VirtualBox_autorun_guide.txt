@@ -5,4 +5,4 @@
 2. Copy this file to the Startup folder (C:\Users\[Username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
 You can do that using Win+R button -> shell:startup
 
-3. Restart your PC and try ping your VM instance ip
+3. Restart your PC and try to ping your VM instance ip
