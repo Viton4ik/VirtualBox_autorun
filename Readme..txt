@@ -1,0 +1,6 @@
+1. Create 'name'.cmd file with the following data in it ('name' - a file name)
+
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm MyCloud --type headless (MyCloud - name of your VM instance)
+
+2. Copy this file to the Startup folder (C:\Users\[Username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
+You can do that using Win+R button -> shell:startup
